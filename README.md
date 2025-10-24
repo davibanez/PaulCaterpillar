@@ -1,5 +1,6 @@
 
-<img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/ad0da36e-3f9e-46f2-9f9d-886d396e2082" />
+
+<img width="277" height="182" alt="image" src="https://github.com/user-attachments/assets/5ca36acf-5a2a-47f6-bc78-efcbf1cbd86b" />
 
 
 # CC101 - 433Mhz RF Receiver
