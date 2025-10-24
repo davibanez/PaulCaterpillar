@@ -1,4 +1,4 @@
-# PaulCaterpillar
+# CC101 - 433Mhz RF Receiver
 
 CC101 Connection to Arduino Uno
 
